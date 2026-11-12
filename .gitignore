@@ -1,0 +1,8 @@
+# Runtime data (SQLite chain store)
+data/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/

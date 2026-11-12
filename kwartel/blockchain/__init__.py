@@ -1,0 +1,1 @@
+"""Kwartel blockchain layer: blocks, headers, Merkle trees, and PoW."""
